@@ -1,1 +1,1 @@
-# Adaptive Restoration Neural Clump: SingleImage Haze and Snow coordinated Removal
+# Adaptive Restoration Neural Clump: Single Image Haze and Snow coordinated Removal
